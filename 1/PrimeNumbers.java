@@ -2,7 +2,7 @@ package lesson5;
 
 import java.util.Scanner;
 
-public class PrimeNumbers {
+public class PrimeNumbers2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
