@@ -8,6 +8,7 @@ public class PrimeNumbers {
 
         int enteredNumber;
 
+        
         do {
             System.out.println("Введите целое число больше 1: ");
             enteredNumber = scanner.nextInt();
